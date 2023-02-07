@@ -7,3 +7,11 @@
     <li>https://zenn.dev/optimisuke/articles/105feac3f8e726830f8c</li>
     <li>https://zenn.dev/spiegel/articles/20210223-go-module-aware-mode</li>
 </ul>
+
+
+### Sqlite3 軽量
+```
+$ sqlite3 webapp.sql
+
+sqlite3 > .table
+```

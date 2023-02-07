@@ -1,1 +1,4 @@
 2023/02/07 14:33:14 main.go:15: test
+2023/02/07 16:00:45 users.go:27: near "values": syntax error
+2023/02/07 16:01:55 users.go:28: near "values": syntax error
+2023/02/07 16:11:07 users.go:28: near "values": syntax error
