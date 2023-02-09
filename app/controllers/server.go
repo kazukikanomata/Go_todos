@@ -6,5 +6,7 @@ import (
 )
 
 func StartMainServer() error {
+	// topというhandlerの処理を行う
+	http.HandleFunc("/", top)
 	return http.ListenAndServe(":"+config.Config.Port, nil)
 }
