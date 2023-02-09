@@ -2,3 +2,9 @@
 2023/02/07 16:00:45 users.go:27: near "values": syntax error
 2023/02/07 16:01:55 users.go:28: near "values": syntax error
 2023/02/07 16:11:07 users.go:28: near "values": syntax error
+2023/02/09 12:34:52 todos.go:45: no such column: i
+2023/02/09 12:47:57 todos.go:94: near "where": syntax error
+2023/02/09 12:48:28 todos.go:92: near "where": syntax error
+2023/02/09 12:50:21 todos.go:92: near "where": syntax error
+2023/02/09 12:51:11 todos.go:92: near "where": syntax error
+2023/02/09 12:52:10 todos.go:92: near "where": syntax error
