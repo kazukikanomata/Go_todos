@@ -23,6 +23,7 @@ func init() {
 
 func LoadConfig() {
 	cfg, err := ini.Load("config/config.ini")
+
 	if err != nil {
 		log.Fatalln(err)
 	}
